@@ -1,0 +1,4 @@
+*.zip
+omniglot_resized/
+models/
+.ipynb_checkpoints/
